@@ -1,0 +1,12 @@
+* {
+  justify-content: center;
+  text-align: center;
+}
+
+div.index-header {
+  margin-top: 2rem;
+}
+
+div.index-center {
+  margin-top: 0rem;
+}

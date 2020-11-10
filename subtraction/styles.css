@@ -1,0 +1,38 @@
+* {
+  justify-content: center;
+  text-align: center;
+}
+
+h3#h3 {
+  margin-top: 2rem;
+}
+
+form#my-form {
+  margin-top: 2rem;
+}
+
+.active {
+  visibility: visible;
+  display: initial;
+}
+
+.inactive {
+  visibility: hidden;
+  display: none;
+}
+
+.inactive-button {
+  margin-top: 1rem;
+}
+
+.inline {
+  display: inline;
+}
+
+.error {
+  background: orangered;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
